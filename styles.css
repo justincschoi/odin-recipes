@@ -13,9 +13,9 @@ h1 {
     padding: 8px;
 }
 
-.ul-food {
+.ul-food li {
     display: inline-block;
-    padding-left: 0;
+    padding: 6px;
     list-style-type: none;
 }
 
